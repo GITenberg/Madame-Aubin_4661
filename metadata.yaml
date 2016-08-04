@@ -1,0 +1,33 @@
+_repo: Madame-Aubin_4661
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Morlock, Frank J.
+    gutenberg_agent_id: '1532'
+    url: http://www.gutenberg.org/2009/agents/1532
+creator:
+  author:
+    agent_name: Verlaine, Paul
+    alias: Verlaine, Paul Marie
+    birthdate: 1844
+    deathdate: 1896
+    gutenberg_agent_id: '1531'
+    url: http://www.gutenberg.org/2009/agents/1531
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Paul_Verlaine
+    - http://en.wikipedia.org/wiki/Paul_Verlaine
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4661'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'French drama -- 19th century -- Translations into English'
+- !lcc 'PQ'
+- GITenberg
+title: Madame Aubin
+url: http://www.gutenberg.org/ebooks/4661
